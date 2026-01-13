@@ -15,10 +15,6 @@ env/
 *.swp
 *.swo
 
-# Jupyter Notebook
-.ipynb_checkpoints/
-*.ipynb
-
 # Logs and databases
 *.log
 *.sqlite
