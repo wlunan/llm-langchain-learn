@@ -1,0 +1,36 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+venv/
+env/
+.venv/
+.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb
+
+# Logs and databases
+*.log
+*.sqlite
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Model files (optional: uncomment if you don't want to commit models)
+# *.bin
+# *.pt
+# *.pth
+# *.gguf
+# models/
